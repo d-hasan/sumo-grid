@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edges xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"     xsi:noNamespaceSchemaLocation="http://sumo.sf.net/xsd/edges_file.xsd">
+	<edge id="starth0-(0_0)" from="starth0" to="(0_0)" type="type0"/>
+	<edge id="(0_0)-(0_1)" from="(0_0)" to="(0_1)" type="type0"/>
+	<edge id="(0_1)-(0_2)" from="(0_1)" to="(0_2)" type="type0"/>
+	<edge id="(0_2)-endh0" from="(0_2)" to="endh0" type="type0"/>
+	<edge id="endh0-(0_2)" from="endh0" to="(0_2)" type="type0"/>
+	<edge id="(0_2)-(0_1)" from="(0_2)" to="(0_1)" type="type0"/>
+	<edge id="(0_1)-(0_0)" from="(0_1)" to="(0_0)" type="type0"/>
+	<edge id="(0_0)-starth0" from="(0_0)" to="starth0" type="type0"/>
+	<edge id="starth1-(1_0)" from="starth1" to="(1_0)" type="type0"/>
+	<edge id="(1_0)-(1_1)" from="(1_0)" to="(1_1)" type="type0"/>
+	<edge id="(1_1)-(1_2)" from="(1_1)" to="(1_2)" type="type0"/>
+	<edge id="(1_2)-endh1" from="(1_2)" to="endh1" type="type0"/>
+	<edge id="endh1-(1_2)" from="endh1" to="(1_2)" type="type0"/>
+	<edge id="(1_2)-(1_1)" from="(1_2)" to="(1_1)" type="type0"/>
+	<edge id="(1_1)-(1_0)" from="(1_1)" to="(1_0)" type="type0"/>
+	<edge id="(1_0)-starth1" from="(1_0)" to="starth1" type="type0"/>
+	<edge id="starth2-(2_0)" from="starth2" to="(2_0)" type="type0"/>
+	<edge id="(2_0)-(2_1)" from="(2_0)" to="(2_1)" type="type0"/>
+	<edge id="(2_1)-(2_2)" from="(2_1)" to="(2_2)" type="type0"/>
+	<edge id="(2_2)-endh2" from="(2_2)" to="endh2" type="type0"/>
+	<edge id="endh2-(2_2)" from="endh2" to="(2_2)" type="type0"/>
+	<edge id="(2_2)-(2_1)" from="(2_2)" to="(2_1)" type="type0"/>
+	<edge id="(2_1)-(2_0)" from="(2_1)" to="(2_0)" type="type0"/>
+	<edge id="(2_0)-starth2" from="(2_0)" to="starth2" type="type0"/>
+	<edge id="startv0-(0_0)" from="startv0" to="(0_0)" type="type1"/>
+	<edge id="(0_0)-(1_0)" from="(0_0)" to="(1_0)" type="type1"/>
+	<edge id="(1_0)-(2_0)" from="(1_0)" to="(2_0)" type="type1"/>
+	<edge id="(2_0)-endv0" from="(2_0)" to="endv0" type="type1"/>
+	<edge id="startv1-(0_1)" from="startv1" to="(0_1)" type="type1"/>
+	<edge id="(0_1)-(1_1)" from="(0_1)" to="(1_1)" type="type1"/>
+	<edge id="(1_1)-(2_1)" from="(1_1)" to="(2_1)" type="type1"/>
+	<edge id="(2_1)-endv1" from="(2_1)" to="endv1" type="type1"/>
+	<edge id="endv1-(2_1)" from="endv1" to="(2_1)" type="type1"/>
+	<edge id="(2_1)-(1_1)" from="(2_1)" to="(1_1)" type="type1"/>
+	<edge id="(1_1)-(0_1)" from="(1_1)" to="(0_1)" type="type1"/>
+	<edge id="(0_1)-startv1" from="(0_1)" to="startv1" type="type1"/>
+	<edge id="startv2-(0_2)" from="startv2" to="(0_2)" type="type1"/>
+	<edge id="(0_2)-(1_2)" from="(0_2)" to="(1_2)" type="type1"/>
+	<edge id="(1_2)-(2_2)" from="(1_2)" to="(2_2)" type="type1"/>
+	<edge id="(2_2)-endv2" from="(2_2)" to="endv2" type="type1"/>
+</edges>

@@ -1,0 +1,13 @@
+<configuration>
+    <input>
+        <edge-files value="data/grid.edg.xml"/>
+        <node-files value="data/grid.nod.xml"/>
+        <type-files value="data/grid.typ.xml"/>
+    </input>
+    <output>
+        <output-file value="data/grid.net.xml"/>
+    </output>
+    <processing>
+        <no-turnarounds value="true"/>
+    </processing>
+</configuration>

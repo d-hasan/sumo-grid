@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"     xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/nodes_file.xsd">
+	<node id="(0_0)" x="0" y="0" type="traffic_light"/>
+	<node id="(0_1)" x="500" y="0" type="traffic_light"/>
+	<node id="(0_2)" x="1000" y="0" type="traffic_light"/>
+	<node id="(1_0)" x="0" y="-500" type="traffic_light"/>
+	<node id="(1_1)" x="500" y="-500" type="traffic_light"/>
+	<node id="(1_2)" x="1000" y="-500" type="traffic_light"/>
+	<node id="(2_0)" x="0" y="-1000" type="traffic_light"/>
+	<node id="(2_1)" x="500" y="-1000" type="traffic_light"/>
+	<node id="(2_2)" x="1000" y="-1000" type="traffic_light"/>
+	<node id="starth0" x="-500" y="0" type="priority"/>
+	<node id="endh0" x="1500" y="0" type="priority"/>
+	<node id="starth1" x="-500" y="-500" type="priority"/>
+	<node id="endh1" x="1500" y="-500" type="priority"/>
+	<node id="starth2" x="-500" y="-1000" type="priority"/>
+	<node id="endh2" x="1500" y="-1000" type="priority"/>
+	<node id="startv0" x="0" y="500" type="priority"/>
+	<node id="endv0" x="0" y="-1500" type="priority"/>
+	<node id="startv1" x="500" y="500" type="priority"/>
+	<node id="endv1" x="500" y="-1500" type="priority"/>
+	<node id="startv2" x="1000" y="500" type="priority"/>
+	<node id="endv2" x="1000" y="-1500" type="priority"/>
+</nodes>
